@@ -83,7 +83,7 @@ If you'd like to deploy your own version:
 
 - Questions provided by: [Open Trivia Database](https://opentdb.com/)
 - Hosting powered by: [Vercel](https://vercel.com/)
-- UI Design & Logic: Snehasis Medda
+- UI Design & Logic: Astha Srivastava 
 
 ---
 
